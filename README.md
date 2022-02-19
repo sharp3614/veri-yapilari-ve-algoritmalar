@@ -44,3 +44,13 @@ Dizi sıralandıktan sonra 18 sayısı ortada olduğu için ***Average case*** k
 [2,3,4,5,6,9,8,15,7]
 ```
 
+## Merge Sort Projesi
+### Proje 2
+ ```
+ [16,21,11,8,12,22] -> Merge Sort
+ ```
+ 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+ ![merge-sort](/merge-sort.png)
+
+ 2. Big-O gösterimini yazınız. --> O(nlogn)
